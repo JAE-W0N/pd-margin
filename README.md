@@ -1,4 +1,5 @@
-# 위성 단일축 자세제어 시스템 (Satellite 1-Axis Attitude Control)
+# 위성 단일축 자세제어 시스템
+(Satellite 1-Axis Attitude Control)
 
 ## 프로젝트 개요
 
