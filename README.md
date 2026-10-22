@@ -51,4 +51,3 @@
 ## 개발 환경
 
 - MATLAB
-- Control System Toolbox
